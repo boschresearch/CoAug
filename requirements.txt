@@ -1,0 +1,12 @@
+tqdm
+scipy==1.7.0
+transformers==4.8.2
+scikit-learn
+datasets
+ipdb==0.13.9
+matplotlib==3.5.2
+seqeval==1.2.2
+snorkel==0.9.8
+torchaudio==0.12.1+cu113
+torchvision==0.13.1+cu113
+torch==1.12.1+cu113

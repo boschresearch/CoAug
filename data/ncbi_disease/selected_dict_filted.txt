@@ -1,0 +1,500 @@
+Disease	myotonic dystrophy
+Disease	tsd
+Disease	tay - sachs disease
+Disease	prader - willi syndrome
+Disease	vws
+Disease	huntington disease
+Disease	lesch - nyhan syndrome
+Disease	friedreich ataxia
+Disease	pendred syndrome
+Disease	ankylosing spondylitis
+Disease	sls
+Disease	adrenomyeloneuropathy
+Disease	wilson disease
+Disease	fragile x syndrome
+Disease	choroideremia
+Disease	alps
+Disease	familial mediterranean fever
+Disease	x - linked adrenoleukodystrophy
+Disease	ctx
+Disease	dgs
+Disease	edmd
+Disease	kniest dysplasia
+Disease	denys - drash syndrome
+Disease	cetp deficiency
+Disease	malaria
+Disease	pmd
+Disease	hms
+Disease	cerebrotendinous xanthomatosis
+Disease	van der woude syndrome
+Disease	diastrophic dysplasia
+Disease	alkaptonuria
+Disease	fmf
+Disease	breast and / or ovarian cancer
+Disease	hereditary hemochromatosis
+Disease	hypopigmentation
+Disease	c5 deficiency
+Disease	bfic
+Disease	vlcad deficiency
+Disease	zellweger syndrome
+Disease	bmd
+Disease	canavan disease
+Disease	piebaldism
+Disease	analbuminemia
+Disease	periodontitis
+Disease	hereditary prostate cancer
+Disease	cleft palate
+Disease	x - linked emery - dreifuss muscular dystrophy
+Disease	renal failure
+Disease	lgs
+Disease	langer - giedion syndrome
+Disease	lipomas
+Disease	peters anomaly
+Disease	vcfs
+Disease	lowe syndrome
+Disease	nephropathy
+Disease	pls
+Disease	x - ald
+Disease	isolated thrombocytopenia
+Disease	g6pd - deficient
+Disease	hbl
+Disease	c5 - deficient
+Disease	kaposi sarcoma
+Disease	aas
+Disease	nijmegen breakage syndrome
+Disease	x - linked retinoschisis
+Disease	papillon - lefevre syndrome
+Disease	wolfram syndrome
+Disease	li - fraumeni syndrome
+Disease	duchenne and becker muscular dystrophy
+Disease	breast cancers
+Disease	mcleod syndrome
+Disease	aspartylglucosaminuria
+Disease	autosomal dominant disorder
+Disease	gastric cancers
+Disease	chh
+Disease	fish - eye disease
+Disease	wnd
+Disease	late - infantile metachromatic leukodystrophy
+Disease	essential fructosuria
+Disease	thomsens disease
+Disease	clp
+Disease	myasthenia gravis
+Disease	favism
+Disease	pigmented ocular fundus lesions
+Disease	skin rash
+Disease	cnsha
+Disease	von hippel - lindau disease
+Disease	abnormal color vision
+Disease	ggm
+Disease	gardner syndrome
+Disease	normotriglyceridemic abetalipoproteinemia
+Disease	deficiency of hepatic phenylalanine hydroxylase
+Disease	von willebrand disease type b
+Disease	x - linked amelogenesis imperfecta
+Disease	malignant neoplasms
+Disease	wolman disease
+Disease	fhm
+Disease	ea - 2
+Disease	afap
+Disease	dfnb4
+Disease	cohen syndrome
+Disease	mps iva
+Disease	nkh
+Disease	psoriasis
+Disease	glaucoma
+Disease	alstrom syndrome
+Disease	colorectal polyps
+Disease	sjogren - larsson syndrome
+Disease	alveolar rhabdomyosarcoma
+Disease	von hippel - lindau ( vhl ) disease
+Disease	short stature
+Disease	iodide transport defect
+Disease	coats disease
+Disease	multiple epiphyseal dysplasia
+Disease	xlt
+Disease	eczema
+Disease	embryonic lethality
+Disease	mentally retarded
+Disease	cardiac involvement
+Disease	adrenal insufficiency
+Disease	dopa - responsive dystonia
+Disease	hnpcc
+Disease	bpad
+Disease	papillary cystadenoma of the epididymis
+Disease	hemophilia a
+Disease	prolidase deficiency
+Disease	anterior segment malformations
+Disease	ccald
+Disease	white matter lesions
+Disease	hyperalphalipoproteinemic
+Disease	myotonia levior
+Disease	adca type i
+Disease	classic galactosemia
+Disease	peroxisomal disorders
+Disease	systemic lupus erythematosus
+Disease	hepatoma
+Disease	severe von willebrand disease
+Disease	arthralgias
+Disease	chronic nonspherocytic hemolytic anemia
+Disease	rb tumors
+Disease	sporadic cerebellar haemangioblastoma
+Disease	deficiency of c5
+Disease	homozygous hypobetalipoproteinemia
+Disease	grmd
+Disease	enzymopathy
+Disease	cutaneous vasculitis
+Disease	deficiency of the hepatic enzyme phenylalanine hydroxylase
+Disease	familial adenomatous polyposis coli
+Disease	g6pd deficient
+Disease	congenital afibrinogenemia
+Disease	autosomal dominant retinitis pigmentosa
+Disease	vhl disease
+Disease	mucopolysaccharidosis iva
+Disease	brca1 abnormalities
+Disease	ulcerative colitis
+Disease	iris hypoplasia
+Disease	factor x deficiency
+Disease	gm1 - gangliosidosis
+Disease	idiopathic torsion dystonia
+Disease	primary dystonias
+Disease	sudden death
+Disease	genetic abnormalities
+Disease	ivf
+Disease	feo
+Disease	hypersensitivity to ionizing radiation
+Disease	aapc
+Disease	palmoplantar keratosis
+Disease	neuroectodermal tumors
+Disease	hemangioblastomas
+Disease	bladder symptoms
+Disease	dysmorphic features
+Disease	argininemia
+Disease	fndi
+Disease	congenital hypothyroidism
+Disease	seminoma
+Disease	solid tumors
+Disease	chondrodysplasias
+Disease	dfsp
+Disease	maternal phenylketonuria
+Disease	thyroid goiter
+Disease	apc tumor
+Disease	muscle weakness
+Disease	paroxysmal nocturnal hemoglobinuria
+Disease	digeorge syndrome
+Disease	congenital anomaly disorders
+Disease	muscle wasting
+Disease	attenuated polyposis
+Disease	chromosomal abnormalities
+Disease	autosomal recessive genetic disorder
+Disease	pilomatricomas
+Disease	childhood cerebral ald
+Disease	neurodegeneration
+Disease	amn
+Disease	tcd
+Disease	aku
+Disease	mcf - 7 tumours
+Disease	atelosteogenesis type ii
+Disease	brca1 - deficient
+Disease	trichorhinophalangeal syndrome
+Disease	hydrocephalus
+Disease	exencephalus
+Disease	autosomal dominant neurohypophyseal diabetes insipidus
+Disease	x linked recessive thrombocytopenia
+Disease	classic lcat deficiency
+Disease	macular degeneration
+Disease	fundus flavimaculatus
+Disease	neurodevelopmentally handicapped
+Disease	diarrhea
+Disease	metastatic prostate cancer
+Disease	protein s deficiency type i
+Disease	ewing sarcoma
+Disease	desmoplastic small round cell tumors
+Disease	malignant melanoma of soft parts
+Disease	deficiency of aspartoacylase
+Disease	allelic disorders
+Disease	x - linked spastic paraplegia
+Disease	adolcald
+Disease	congenital cataracts
+Disease	type ii gd
+Disease	spinal cerebellar ataxia
+Disease	hereditary deficiency of the fifth component of complement
+Disease	cardiac disease
+Disease	breast and breast - ovarian cancer
+Disease	cerebral atrophy
+Disease	brain disease
+Disease	familial breast cancer
+Disease	hyperalphalipoproteinemia
+Disease	haploinsufficiency of pax6
+Disease	galt deficiency
+Disease	subtotal complement c6 deficiency
+Disease	chronic meningococcemia
+Disease	sacro - iliitis
+Disease	entero - arthropathy
+Disease	psoriatic arthropathy
+Disease	renal disease
+Disease	hyperuricemia
+Disease	neisserial infections
+Disease	absence of the sixth component of complement
+Disease	type i von willebrand disease
+Disease	angioedema
+Disease	emery dreifuss muscular dystrophy
+Disease	hnsha
+Disease	mesenchymal tumors
+Disease	colonic polyps
+Disease	genetic abnormality
+Disease	familial amyloidotic polyneuropathy
+Disease	lowe oculocerebrorenal syndrome
+Disease	autosomal recessive human genetic disorder
+Disease	cah
+Disease	autoimmune chronic active hepatitis
+Disease	gtd
+Disease	congenital adrenal hypoplasia
+Disease	cgkd
+Disease	complex glycerol kinase deficiency
+Disease	isolated aniridia
+Disease	absence of the seventh component of complement
+Disease	type iia vwd
+Disease	inborn errors of myelin metabolism
+Disease	retinoblastoma tumours
+Disease	cholesteryl ester transfer protein ( cetp ) deficiency
+Disease	paroxysmal nocturnal haemoglobinuria
+Disease	duchenne or becker muscular dystrophy
+Disease	bacterial meningitis
+Disease	mef - amyloidosis
+Disease	gouty arthritis
+Disease	tourette syndrome
+Disease	b - cell neoplasms
+Disease	type i c2 deficiency
+Disease	type i human complement c2 deficiency
+Disease	dystrophin deficiency
+Disease	golden retriever muscular dystrophy
+Disease	glucose - 6 - phosphate dehydrogenase ( g6pd ; ec 1 . 1 . 1 . 49 ) deficiency
+Disease	pyoderma gangrenosum
+Disease	cfnd
+Disease	craniofrontonasal dysplasia
+Disease	cat eye syndrome
+Disease	trisomy 15
+Disease	genitourinary abnormalities
+Disease	hiv
+Disease	congenital hypertrophy of the retinal pigment epithelium
+Disease	glucose 6 - phosphate dehydrogenase ( g6pd ) deficiency
+Disease	wilms tumour
+Disease	genetic defects
+Disease	x - linked recessive disorder
+Disease	pyruvate carboxylase deficiency
+Disease	aarskog - scott syndrome
+Disease	adenomatous polyposis coli ( apc ) tumor
+Disease	microcephaly
+Disease	genetic diseases
+Disease	autosomal recessive syndrome
+Disease	hereditary cancers
+Disease	six5 deficiency
+Disease	nonketotic hyperglycinemia
+Disease	inflammatory bowel disease
+Disease	benign tumors
+Disease	genetic lesions
+Disease	igt
+Disease	impaired glucose tolerance
+Disease	autosomal recessive ataxia
+Disease	neurodegenerative disorders
+Disease	cerebellar dysfunction
+Disease	immune deficiencies
+Disease	venous thrombosis
+Disease	haim - munk syndrome
+Disease	visual loss
+Disease	lqt3
+Disease	familial expansile osteolysis
+Disease	ataxia - telangiectasia - like disorder
+Disease	knobloch syndrome
+Disease	palmoplantar hyperkeratosis
+Disease	periodontal disease
+Disease	spasticity
+Disease	frasier syndrome
+Disease	immune deficiency
+Disease	wilms tumors
+Disease	medulloblastomas
+Disease	choroid plexus carcinomas
+Disease	foot deformity
+Disease	obese
+Disease	maternal uniparental disomy for chromosome 14
+Disease	inherited ataxias
+Disease	duchenne / becker muscular dystrophy
+Disease	esophageal cancers
+Disease	neurofibrosarcomas
+Disease	recessive disorders
+Disease	double layered patella
+Disease	club foot
+Disease	neonatal adrenoleukodystrophy
+Disease	dermatofibrosarcoma protuberans
+Disease	foveal hypoplasia
+Disease	corneal dystrophy
+Disease	neurological abnormalities
+Disease	cirrhosis
+Disease	spinal xanthomatosis
+Disease	mhp
+Disease	hyperphenylalaninemic
+Disease	hypodontia
+Disease	cl / p
+Disease	prader - willi and angelman syndromes
+Disease	chediak - higashi syndrome
+Disease	classical galactosemia
+Disease	sensory - neural deafness
+Disease	drd
+Disease	hpd
+Disease	hereditary progressive dystonia
+Disease	autosomal recessive lysosomal storage disorder
+Disease	mucopolysaccharidosis vii
+Disease	beta - glucuronidase deficiency
+Disease	renal amyloidosis
+Disease	fhc
+Disease	familial hypertrophic cardiomyopathy
+Disease	cleft lip / palate
+Disease	ankle contractures
+Disease	cardiac conduction defects
+Disease	colorectal adenomas
+Disease	fd
+Disease	fabry disease
+Disease	syndromic deafness
+Disease	neurologic deterioration
+Disease	neurologic dysfunction
+Disease	non - syndromic sensorineural hearing loss
+Disease	enlarged vestibular aqueduct
+Disease	inborn error of metabolism
+Disease	synovitis
+Disease	serositis
+Disease	oromandibular dystonia
+Disease	pseudohermaphroditism
+Disease	mesangial sclerosis
+Disease	wt1 dysfunction
+Disease	x - linked mental retardation
+Disease	borjeson - forssman - lehmann syndrome
+Disease	dpd deficiency
+Disease	non - hodgkins lymphoma
+Disease	cartilage - hair hypoplasia
+Disease	familial deficiency of the seventh component of complement
+Disease	colon carcinoma
+Disease	dds
+Disease	frda
+Disease	familial gastric cancer
+Disease	pds
+Disease	mjd
+Disease	c5d
+Disease	colon or lung cancer
+Disease	deficiency of emerin
+Disease	neuromuscular diseases
+Disease	emerin deficiency
+Disease	brca1 defects
+Disease	hereditary human breast and ovarian cancer
+Disease	aoii
+Disease	ao ii
+Disease	demyelination in the central and peripheral nervous system
+Disease	inborn peroxisomal disease
+Disease	x - linked inherited metabolic disorder
+Disease	anencephaly
+Disease	spina bifida
+Disease	neuroepithelial abnormalities
+Disease	brca1 deficiency
+Disease	breast - ovarian syndrome
+Disease	bipolar affective disorder
+Disease	bipolar disorder
+Disease	deficiency of glucose - 6 - phosphate dehydrogenase
+Disease	prostatic cancer
+Disease	immunodeficiency disease
+Disease	x - linked wiskott - aldrich syndrome
+Disease	cystadenomas of the epididymis
+Disease	metastatic renal cell carcinoma
+Disease	glucose - 6 - phosphate dehydrogenase ( g6pd ) - deficient
+Disease	deficiency of mitochondrial very - long - chain acyl - coa dehydrogenase
+Disease	chylomicronemia
+Disease	coronary vascular disease
+Disease	autosomal codominant disorder
+Disease	familial hypobetalipoproteinemia
+Disease	addisons disease
+Disease	central nervous system demyelination
+Disease	amyloidotic kidney disease
+Disease	hereditary breast - ovarian cancer syndrome
+Disease	congenital malformation of the eye
+Disease	retinoblastoma tumors
+Disease	bilateral and unilateral retinoblastoma
+Disease	x - linked neurodevelopmental disorder
+Disease	pseudoglioma
+Disease	ewing tumors
+Disease	hfe defect
+Disease	cone dysfunction
+Disease	choriocapillaris of the macula
+Disease	atrophy of the retinal pigment epithelium
+Disease	x linked recessive thrombocytopenic disorder
+Disease	immunological abnormalities
+Disease	complete or partial lcat deficiency
+Disease	atherosclerotic cardiovascular disease
+Disease	classic ( complete ) lecithin cholesterol acyltransferase ( lcat ) deficiency
+Disease	cholesterol acyltransferase deficiency
+Disease	breast tumour
+Disease	autosomal recessive disease glucose / galactose malabsorption
+Disease	pericentral scotomas
+Disease	retinitis punctata albescens
+Disease	pattern dystrophy
+Disease	hypothalamic abnormalities
+Disease	skin ulcers
+Disease	iminodipeptiduria
+Disease	hereditary glucose / galactose malabsorption
+Disease	ochronotic arthropathy
+Disease	ochronosis
+Disease	advanced prostate cancers
+Disease	anterior segment anomalies
+Disease	peters ' anomaly
+Disease	type i protein s deficiency
+Disease	deficiency of arylsulfatase a
+Disease	late - infantile type of mld
+Disease	adult mld
+Disease	spongy degeneration of the brain
+Disease	ewings sarcoma
+Disease	ewing family of tumors
+Disease	familial male breast cancer
+Disease	autistic
+Disease	carcinoma of the rectum
+Disease	autism
+Disease	autosomal recessive leukodystrophy
+Disease	x - linked dysmyelinating disorder
+Disease	x - linked multisystem disorder
+Disease	adolescent cerebral ald
+Disease	impaired function of adrenal cortex and testes
+Disease	cholesteryl ester transfer protein deficiency
+Disease	autosomal dominant neurodegenerative disorder
+Disease	impairment of very long chain fatty acids beta - oxidation
+Disease	no eyes
+Disease	craniofacial and central nervous system defects
+Disease	anophthalmia
+Disease	breast and ovarian tumors
+Disease	sporadic breast and ovarian cancers
+Disease	ovarian and early - onset
+Disease	familial tumors
+Disease	breast and ovarian carcinomas
+Disease	hereditary nonpolyposis colorectal cancer
+Disease	serous cystadenocarcinoma
+Disease	mid - face hypoplasia
+Disease	short trunk and extremities
+Disease	stillborn
+Disease	gd type ii
+Disease	type gd ii
+Disease	type iii gd
+Disease	type i gd
+Disease	deficiency of beta - glucocerebrosidase
+Disease	type ii gaucher disease
+Disease	deficiency of hepatic fructokinase
+Disease	inborn errors of metabolism
+Disease	breast - ovarian cancer - family syndrome
+Disease	cancer of the breast and ovaries
+Disease	breast - ovary cancer - family syndrome
+Disease	infertility
+Disease	congenital disease
+Disease	hearing impairment
+Disease	addison only
+Disease	adolescent ald
+Disease	x - linked diseases
+Disease	invasive cancer
+Disease	carcinoma in situ
+Disease	non - hereditary ( sporadic ) breast cancer
+Disease	autosomal dominant syndrome
+Disease	sporadic ovarian tumours

@@ -1,0 +1,102 @@
+Third Party Licenses
+====================
+
+Benchmarks includes material from the projects listed below (Third Party
+IP). The original copyright notice and the license under which we received
+such Third Party IP, are set forth below.
+
+
+--------------------------------------------------------------------------
+Overview (Key Libraries used in the Software)
+--------------------------------------------------------------------------
+TaLLOR
+FewNERD
+
+tqdm
+scipy==1.7.0
+transformers==4.8.2
+scikit-learn
+datasets
+ipdb==0.13.9
+matplotlib==3.5.2
+seqeval==1.2.2
+snorkel==0.9.8
+torchaudio==0.12.1+cu113
+torchvision==0.13.1+cu113
+torch==1.12.1+cu113
+
+
+--------------------------------------------------------------------------
+Detailed Information on Library
+--------------------------------------------------------------------------
+Name: TaLLOR
+Version: NA
+URL: https://github.com/JiachengLi1995/TALLOR
+License: AGPL-3.0
+
+Name: FewNERD
+Version: NA
+URL: https://github.com/thunlp/Few-NERD
+License: Apache 2.0
+
+Name:      tqdm
+Version:   4.65.0
+URL:       https://tqdm.github.io
+License:   MPLv2.0, MIT Licences
+
+
+Name:      scipy
+Version:   1.7.0
+URL:       https://www.scipy.org
+License:   BSD
+
+Name:      transformers
+Version:   4.8.2
+URL:       https://github.com/huggingface/transformers
+License:   Apache
+
+Name:      scikit-learn
+Version:   0.24.2
+URL:       http://scikit-learn.org
+License:   new BSD
+
+Name:      datasets
+Version:   1.11.0
+URL:       https://github.com/huggingface/datasets
+License:   Apache 2.0
+
+Name:      ipdb
+Version:   0.13.9
+URL:       https://github.com/gotcha/ipdb
+License:   BSD
+
+Name:      matplotlib
+Version:   3.5.2
+URL:       https://matplotlib.org
+License:   PSF
+
+Name:      seqeval
+Version:   1.2.2
+URL:       https://github.com/chakki-works/seqeval
+License:   MIT
+
+Name:      snorkel
+Version:   0.9.8
+URL:       https://github.com/snorkel-team/snorkel
+License:   Apache 2.0
+
+Name:      torchaudio
+Version:   0.12.1+cu113
+URL:       https://github.com/pytorch/audio
+License:   BSD 3-Clause "New" or "Revised" License
+
+Name:      torchvision
+Version:   0.13.1+cu113
+URL:       https://github.com/pytorch/vision
+License:   BSD 3-Clause "New" or "Revised" License
+
+Name:      torch
+Version:   1.12.1+cu113
+URL:       https://pytorch.org/
+License:   BSD-3
+
