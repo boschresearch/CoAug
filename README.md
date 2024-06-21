@@ -1,14 +1,14 @@
 # CoAug
 
 This is the companion code for the research paper 
-"[CoAug: Combining Augmentation of Labels and Labeling Rules]()". 
+"[CoAug: Combining Augmentation of Labels and Labeling Rules](https://aclanthology.org/2023.findings-acl.577.pdf)". 
 The code allows the users to reproduce and extend the results reported in the study. 
 Please cite the above paper when reporting, reproducing or extending the results.
 
 ### Purpose of the project
 
 This software is a research prototype, solely developed for and published as
-part of the publication "[CoAug: Combining Augmentation of Labels and Labeling Rules]()". It will neither be
+part of the publication "[CoAug: Combining Augmentation of Labels and Labeling Rules](https://aclanthology.org/2023.findings-acl.577.pdf)". It will neither be
 maintained nor monitored in any way.
 
 ## 1. Setup 
